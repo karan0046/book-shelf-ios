@@ -11,13 +11,29 @@ Anime book list search and bookmark
   </tr>
 </table>
 
+
 ## Building the code
-Trelated build instructions, please follow the project readme.
-- [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios/blob/main/firefox-ios/README.md)
+
+1. Install the latest [Xcode developer tools](https://developer.apple.com/download/all/) from Apple.
   
+2. Clone the repository:
+    ```shell
+    git clone https://github.com/karan0046/book-shelf-ios.git
+    ```
+3. Change directories to the project root:
+    ```shell
+    cd book-shelf-ios
+    ```
+5. Open the `BookShelf.xcodeproj` under the `book-shelf-ios` folder in Xcode.
+1. Select the destination device you want to build on.
+1. Run the app with `Cmd + R` or by pressing the `build and run` button.
+
+⚠️ Important: In case you have dependencies issues with SPM, please try the following:
+- Xcode -> File -> Packages -> Reset Package Caches
+
 
 ## Getting involved
 
-We encourage you to participate in this open source projects. We love Pull Requests, Issue Reports, Feature Requests or any kind of positive contribution. 
+We encourage you to participate in this open source projects. We appreciate any Feature Requests or any kind of positive contribution. 
 
-- You can [file a new issue](https://github.com/mozilla-mobile/firefox-ios/issues/new/choose) or research [existing bugs](https://github.com/mozilla-mobile/firefox-ios/issues)
+- You can [file a new issue](https://github.com/karan0046/book-shelf-ios/issues/new) or research [existing bugs](https://github.com/karan0046/book-shelf-ios/issues)

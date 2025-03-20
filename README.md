@@ -7,7 +7,7 @@ Anime book list search and bookmark
     <td style="border: none;"><img src="https://img.shields.io/badge/Xcode-16.2-blue?logo=Xcode&logoColor=white" alt="Firefox-iOS"></td>
     <td style="border: none;"><img src="https://img.shields.io/badge/Swift-6.0.3-red?logo=Swift&logoColor=white" alt="Firefox-iOS"></td>
     <td style="border: none;"><img src="https://img.shields.io/badge/iOS-17.0+-green?logo=apple&logoColor=white" alt="Firefox-iOS"></td>
-    <td style="border: none;"><img src="https://img.shields.io/badge/Couchbase_Lite-3.2.3-red?logo=couchbase&logoColor=white" alt="Couchbase Lite"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Couchbase_Lite-3.2.2-red?logo=couchbase&logoColor=white" alt="Couchbase Lite"></td>
   </tr>
 </table>
 
